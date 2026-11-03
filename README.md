@@ -1,16 +1,21 @@
-## Hi there 👋
+<img src="header.svg" width="100%" alt="" />
 
-<!--
-**rahmamahdi25/rahmamahdi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Rahma Mahdi
 
-Here are some ideas to get you started:
+I'm a software engineer who likes building things that feel thoughtful to use, and making the code underneath applications dependable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning web development with **Ada Developers Academy, Cohort 26**.
+<br/>
+I'm based in the San Francisco Bay Area, where I studied at Univeristy of California, Berkeley as a Regent's Scholar.
+
+In my most recent role, I full-time as a Associate Software Engineer at **Sony PlayStation**, where I co-owned an ML deployment pipeline serving 120M+ devices, saved $1.5M in infrastructure costs, and brought next-gen React Native to PlayStation's iconic Home UI. 
+
+A few things I've built at Ada Developers Academy:
+- [Task List API](https://github.com/rahmamahdi25/task-list-api) - a Flask API for organizing tasks into goals, with Slack notifications
+- [Snowman Game](https://github.com/rahmamahdi25/snowman-game) - a word-guessing game that builds a snowman with each miss
+
+I am currently working in Python, JavaScript, TypeScript, React, Flask and PostgreSQL.
+
+<br/>
+
+<p align="center">❦</p>
