@@ -1,7 +1,6 @@
 <img src="header.svg" width="100%" alt="" />
 
 ### Rahma Mahdi
-
 I'm a software engineer who enjoys building thoughtful products with clean, reliable code.
 
 I'm currently learning web development with **Ada Developers Academy, Cohort 26**.
