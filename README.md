@@ -1,4 +1,4 @@
-<img src="header.svg" width="100%" alt="" />
+<img width="1000" height="110" alt="header" src="https://github.com/user-attachments/assets/fe2c70ef-27bd-4843-948d-1f230728edcf" />
 
 ### Rahma Mahdi
 I'm a software engineer who enjoys building thoughtful products with clean, reliable code.
